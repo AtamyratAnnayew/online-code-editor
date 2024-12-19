@@ -1,7 +1,6 @@
 {
   "name": "online-code-editor",
   "version": "0.1.0",
-  "homepage": "https://AtamyratAnnayew.github.io/online-code-editor",
   "private": true,
   "dependencies": {
     "@codemirror/lang-javascript": "^6.2.2",
